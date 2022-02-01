@@ -14,3 +14,6 @@ http://www.prepubmed.org/grim_test/
 ## StatCheck
 To check a PDF, DOCX or HTML file for errors in statistical reporting.
 http://statcheck.io/
+
+## Sketch Neural Networka architecture
+http://alexlenail.me/NN-SVG/index.html
